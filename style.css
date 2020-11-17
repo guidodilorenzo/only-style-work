@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+header{
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 120px;
+    background-color: dimgray;
+}
+#logo{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 200px;
+    height: 60px;
+    background-color: white;
+}
+.redes{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    background-color: white;
+    border-radius: 100%;
+}
+#icono1{
+    top: 42px;
+    right: 120px;
+}
+#icono2{
+    top: 42px;
+    right: 71px;
+}
+#icono3{
+    top: 42px;
+    right: 19px;
+}
+nav{
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 48px;
+    background-color: white;
+}
+.botones{
+    float: left;
+    width: 196px;
+    margin: 0 2px;
+    height: 48px;
+    background-color: gray;
+}
+#top{
+    position: relative;
+    margin: 20px auto;
+    width: 1000px;
+    height: 192px;
+}
+#top ul{
+    width: 1010px;
+    height: 192px;
+}
+#top ul li{
+    float: left;
+    width: 326px;
+    height: 192px;
+    background-color: black;
+    margin-right: 10px;
+}
+section{
+    position: relative;
+    margin: auto;
+    width: 1000px ;
+    height: 453px;
+    background-color: gray;
+}
+aside#izq{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 453px;
+    background-color: black;
+}
+aside#der{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 200px;
+    height: 453px;
+    background-color: black;
+}
+footer{
+    position: relative;
+    margin: 20px auto;
+    width: 1000px ;
+    height: 70px;
+    background-color: dimgray;
+}
